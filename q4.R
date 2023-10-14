@@ -12,5 +12,4 @@ equacao_regressao = function(X) {
 equacao_regressao(85)
 
 #Passo 3:
-equacao_regressao(85 + 1)
-# Deformaria mais
+equacao_regressao(85) - equacao_regressao(85 + 1)
